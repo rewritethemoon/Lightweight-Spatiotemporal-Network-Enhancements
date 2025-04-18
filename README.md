@@ -10,7 +10,7 @@ TENNs-Eye is a lightweight spatio-temporal network for online eye tracking with 
 ### ✨ Key Enhancements  
 #### **Data Augmentation Pipeline**  
 <div align="center">  
-<img src="augmentation.png" width="500" alt="Data Augmentation Diagram">  
+<img src="data_augmentation.png" width="500" alt="Data Augmentation Diagram">  
 </div>  
 
 We introduce three novel augmentation strategies tailored for event-based eye tracking:  
